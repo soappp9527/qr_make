@@ -1,0 +1,1 @@
+Use QR code to show the company property information.
